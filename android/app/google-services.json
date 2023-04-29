@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1034772965420",
+    "project_id": "childpersonality-6091d",
+    "storage_bucket": "childpersonality-6091d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034772965420:android:9b9d4da2f5d887efd50989",
+        "android_client_info": {
+          "package_name": "com.example.sara_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034772965420-dcdr6j06v8tfffq2jb49n2f5u04354n7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwVvq4_hSP-g4o0GuWONTiwC1vqpw29X8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034772965420-dcdr6j06v8tfffq2jb49n2f5u04354n7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
