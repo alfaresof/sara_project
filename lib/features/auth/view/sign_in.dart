@@ -62,6 +62,7 @@ class _SignInState extends ConsumerState<SignIn> {
                 const SizedBox(height: 25),
                 //sign in button
                 MyButton(
+                  title: "Sign In",
                   onTap: () {
                     authController.signIn(context);
                   },

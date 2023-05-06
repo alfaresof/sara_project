@@ -84,6 +84,7 @@ class _EditInfoState extends ConsumerState<EditInfo> {
                 const SizedBox(height: 25),
                 //sign in button
                 MyButton(
+                  title: "Edit info",
                   onTap: () {
                     authController.editInfo(context);
                   },
